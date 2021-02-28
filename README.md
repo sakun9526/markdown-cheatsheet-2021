@@ -38,3 +38,100 @@ This is also H2
 <h1>This is also H1</h1>
 <h2>This is also H2</h2>
 
+<br>
+
+Markdown applications don’t agree on how to handle a missing space between the number signs (#) and the heading name. For compatibility, always put a space between the number signs and the heading name.
+
+| :white_check_mark: Do this      | :negative_squared_cross_mark: Don't do this  |
+| ------------------------------- | -------------------------------------------  |
+| # Here's a Heading              | #Here's a Heading                            |
+
+<br>
+
+## Emphasis
+
+<br>
+
+### Bold
+
+**Markdown :computer:**
+
+``` markdown
+
+I just love **bold text**.
+
+I just love __bold text__.
+
+Love**is**bold
+
+```
+
+**Output :globe_with_meridians:**
+
+I just love **bold text**.
+
+I just love __bold text__.
+
+Love**is**bold
+
+<br>
+
+### Italic
+
+**Markdown :computer:**
+
+``` markdown
+
+Italicized text is the *cat's meow*.
+
+Italicized text is the _cat's meow_.
+
+A*cat*meow
+
+```
+
+**Output :globe_with_meridians:**
+
+Italicized text is the *cat's meow*.
+
+Italicized text is the _cat's meow_.
+
+A*cat*meow
+
+<br>
+
+### Bold and Italic
+
+To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase. To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+
+**Markdown :computer:**
+
+``` markdown
+
+This text is ***really important***.
+
+This text is ___really important___.
+
+This text is __*really important*__.	
+
+This text is **_really important_**.
+
+This is really***very***important text.
+
+```
+
+**Output :globe_with_meridians:**
+
+This text is ***really important***.
+
+This text is ___really important___.
+
+This text is __*really important*__.	
+
+This text is **_really important_**.
+
+This is really***very***important text.
+
+
+
+
