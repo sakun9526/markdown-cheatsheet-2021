@@ -135,7 +135,7 @@ This is really***very***important text.
 <br>
 <br>
 
-### Blockquote 
+## Blockquote 
 
 **Markdown :computer:**
 
@@ -190,5 +190,101 @@ This is really***very***important text.
 >> This is a nested blockquote 
 
 
+<br>
+
+#### Blockquotes with other elements
+
+**Markdown :computer:**
+
+``` markdown
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+```
+
+**Output :globe_with_meridians:**
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
 
 
+<br>
+<br>
+
+## Lists
+
+<br>
+
+### Ordered list
+
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+
+
+**Markdown :computer:**
+
+``` markdown
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+```
+
+**Output :globe_with_meridians:**
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+<br>
+
+**Markdown :computer:**
+
+``` markdown
+
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+```
+
+**Output :globe_with_meridians:**
+
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+
+<br>
+
+**Markdown :computer:**
+
+``` markdown
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+```
+
+**Output :globe_with_meridians:**
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
