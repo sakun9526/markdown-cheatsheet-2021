@@ -4,7 +4,7 @@ This repository contains collection of syntax on markdown markup language :fire:
 
 <img src="images/markdownlogo.png" style="height: 150px; width: 300px; " alt="Markdown Logo">
 
-##:one: Headings
+## Headings
 
 **Markdown :computer:**
 
