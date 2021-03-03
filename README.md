@@ -288,3 +288,92 @@ To create an ordered list, add line items with numbers followed by periods. The 
     1. Indented item
     2. Indented item
 4. Fourth item
+
+<br>
+<br>
+
+### Unordered list
+
+To create an unordered list, add dashes, asterisks, or plus signs in front of line items. Indent one or more items to create a nested list.
+
+**Markdown :computer:**
+
+``` markdown
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+```
+
+**Output :globe_with_meridians:**
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+<br>
+
+**Markdown :computer:**
+
+``` markdown
+
++ First item
++ Second item
++ Third item
++ Fourth item
+
+```
+
+**Output :globe_with_meridians:**
+
++ First item
++ Second item
++ Third item
++ Fourth 
+
+<br>
+
+**Markdown :computer:**
+
+``` markdown
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
+```
+
+**Output :globe_with_meridians:**
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
+<br>
+
+**Markdown :computer:**
+
+``` markdown
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+```
+
+**Output :globe_with_meridians:**
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
