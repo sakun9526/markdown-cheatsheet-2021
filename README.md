@@ -419,6 +419,46 @@ console.log("hey");
 
 console.log("hey");
 
-``
+```
 
-`
+<br>
+<br>
+
+## Horizontal Rule
+
+**Markdown :computer:**
+
+``` markdown
+
+Use three or more asterisks (***), dashes (---)
+
+***
+
+---
+
+```
+
+**Output :globe_with_meridians:**
+
+
+***
+
+---
+
+<br>
+<br>
+
+## Links
+
+**Markdown :computer:**
+
+``` markdown
+
+[Alternative text](link)
+
+[Github](http://github.com)
+```
+
+**Output :globe_with_meridians:**
+
+[Github](http://github.com)
