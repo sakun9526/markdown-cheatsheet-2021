@@ -377,3 +377,48 @@ To create an unordered list, add dashes, asterisks, or plus signs in front of li
     - Indented item
     - Indented item
 - Fourth item
+
+<br>
+<br>
+
+## Images
+
+**Markdown :computer:**
+
+``` markdown
+
+Format: ![Alt Text](url)
+
+![Tux](./images/tux.jpg)
+
+```
+
+**Output :globe_with_meridians:**
+
+![Tux](./images/tux.jpg)
+
+<br>
+<br>
+
+## Code Blocks
+
+**Markdown :computer:**
+
+``` markdown
+
+``` javascript
+
+console.log("hey");
+
+
+```
+
+**Output :globe_with_meridians:**
+
+``` javascript
+
+console.log("hey");
+
+``
+
+`
